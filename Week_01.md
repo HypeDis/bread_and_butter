@@ -1,5 +1,3 @@
-# HTML
-
 Explain:  
 What is HTML?  
 Wbat is CSS?  

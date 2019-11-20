@@ -6,3 +6,4 @@ This is not an exhaustive list by any means, rather it's the bare minimum of wha
 
 
 [week 1](./Week_01.md)
+[week 2](./Week_02.md)
